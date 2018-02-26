@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBooks.iOS", "MyBooks\MyBo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBooks.UWP", "MyBooks\MyBooks.UWP\MyBooks.UWP.csproj", "{4662F2CB-2960-47CB-AB91-C50781787CB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBooks", "MyBooks\MyBooks\MyBooks.csproj", "{F800ABE9-77DF-415C-8B5E-FE8CBD5B72A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBooks", "MyBooks\MyBooks\MyBooks.csproj", "{F800ABE9-77DF-415C-8B5E-FE8CBD5B72A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
