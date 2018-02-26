@@ -32,7 +32,7 @@ namespace MyBooks
 
                 if (numberOfRows > 0)
                 {
-                    DisplayAlert("Success!", "Book inserted", "Great");
+                    DisplayAlert("Success!", "Book inserted!", "Great");
                 }
                 else
                     DisplayAlert("Failure", "Book failed to be inserted", "Damn it");
